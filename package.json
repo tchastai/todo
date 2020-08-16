@@ -1,0 +1,12 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "scripts": {
+    "start:sync": "cd sync && yarn start",
+    "start:web": "cd web && yarn start"
+  },
+  "private": true,
+  "repository": "git@github.com:valaymerick/todo.git",
+  "author": "valaymerick <valaymerick@gmail.com>",
+  "license": "MIT"
+}
